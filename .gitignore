@@ -1,6 +1,5 @@
-.idea
-.vs
-.vscode/settings.json
-.vscode
-build
-cmake-build*
+.idea/
+.vs/
+.vscode/
+build/
+dist/
